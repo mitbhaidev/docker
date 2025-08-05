@@ -45,8 +45,6 @@ node_modules/
 .env
 .env.*
 
-# Compiled static
-/staticfiles/
 
 
 # Render build logs
