@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+ENV/
+env.bak/
+*.log
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Django
+*.pot
+*.pyc
+db.sqlite3
+/staticfiles/
+/media/
+
+# Migrations
+**/migrations/*.py
+**/migrations/*.pyc
+**/migrations/__pycache__/
+
+# Tailwind / Node
+node_modules/
+
+
+# Docker
+*.pid
+*.tar
+
+
+# Build output
+/static/css/output.css
+
+# Environment Variables
+.env
+.env.*
+
+# Compiled static
+/staticfiles/
+
+
+# Render build logs
+render.yaml
