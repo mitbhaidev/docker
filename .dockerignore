@@ -6,6 +6,6 @@ __pycache__/
 *.sqlite3
 *.log
 static/css/output.css
-.env
+# .env
 .venv
 node_modules
