@@ -24,7 +24,6 @@ Thumbs.db
 *.pot
 *.pyc
 db.sqlite3
-/staticfiles/
 /media/
 
 # Migrations
@@ -41,8 +40,6 @@ node_modules/
 *.tar
 
 
-# Build output
-/static/css/output.css
 
 # Environment Variables
 .env
