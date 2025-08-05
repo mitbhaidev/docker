@@ -27,8 +27,7 @@ COPY . .
 RUN npm install
 RUN npm run build
 
-# Collect static files
-RUN python manage.py collectstatic --noinput
+
 
 # Expose port
 EXPOSE 8000
